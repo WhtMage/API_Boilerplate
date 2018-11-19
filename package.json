@@ -1,0 +1,17 @@
+{
+  "name": "api_test",
+  "version": "1.0.0",
+  "description": "api testing",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mongodb": "^3.1.6",
+    "nodemon": "^1.18.4"
+  }
+}
